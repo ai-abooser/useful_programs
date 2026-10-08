@@ -8,7 +8,7 @@ Byłam sobie na **Wyspie Słodowej** i tam bylo takie spotkanie, taki zlot, taki
 
 ## O mnie............
 ### Zainteresowania!
-- Anime
+- ~~Anime~~
 - Granie po zajęciach lan party cs 1.6 w sali mam nadzieje ze prowadzący pozwoli
 - Przekonywanie ludzi do tego żeby dołączyli do lan party
 
