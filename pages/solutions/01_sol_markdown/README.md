@@ -72,10 +72,11 @@ Mój **ulubiony** wzór to bez żadnego cienia wątpliwości $E^2 = (pc)^2 + (mc
 
 Na drugim miejscu znajduje się moje beloved równanie funkcji falowej: $\Psi(x,t) = A \sin(kx - \omega t + \phi)$
 
+## Troche randomowego shitpostu!
+![Nienawidze tego](wykres.png)
 
 
-
-
+### Sponsor
 [Sponsorem](http://colab.research.google.com) tego repozytorium jest Google Colab!
 
 
