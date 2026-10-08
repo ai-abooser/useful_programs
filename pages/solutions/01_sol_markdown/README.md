@@ -13,7 +13,7 @@ Byłam sobie na **Wyspie Słodowej** i tam bylo takie spotkanie, taki zlot, taki
 - Przekonywanie ludzi do tego żeby dołączyli do lan party
 
 ### Czego nienawidze ~~od najbardziej do najmniej~~
-1. AI
+1. **AI**
 2. Zdrowego jedzenia
 3. Jak mi kot próbował zjeść ładowarkę
 
