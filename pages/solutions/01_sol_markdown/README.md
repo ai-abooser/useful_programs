@@ -55,7 +55,17 @@ $$
 f'(x_0) = \lim_{\Delta x \to 0} \frac{\Delta y}{\Delta x} = \lim_{\Delta x \to 0} \frac{f(x_0 + \Delta x) - f(x_0)}{\Delta x}
 $$
 
+## Co bym najchętniej zabiła?
+#
+Definicja całki Riemanna mówi, że całka oznaczona jest granicą sum prostokątów:
 
+$\int_a^b f(x)\,dx = \lim_{n \to \infty} \sum_{i=1}^{n} f(\xi_i)\,\Delta x_i$
+
+gdzie:
+- $[a,b]$ to przedział całkowania,
+- $\Delta x_i$ to szerokość i-tego przedziału,
+- $\xi_i$ to punkt w przedziale,
+- suma po wszystkich prostokątach przybliża pole pod krzywą.
 
 
 
