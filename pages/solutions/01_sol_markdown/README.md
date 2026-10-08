@@ -43,17 +43,17 @@ cursor.execute(query)
 ```
 
 ## Moje ulubione WZORKI HAHAHAHAHHAHAA
-$$
+$
 \forall \epsilon > 0\ \exists \delta > 0:\ 0 < |x-a| < \delta \Rightarrow |f(x)-L| < \epsilon
-$$
+$
 
-$$
+$
 \sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}
-$$
+$
 
-$$
+$
 \nabla \cdot (\nabla \times \mathbf{F}) = 0
-$$
+$
 
 [Sponsorem](http://colab.research.google.com) tego repozytorium jest Google Colab!
 
