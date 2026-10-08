@@ -17,4 +17,7 @@ Byłam sobie na **Wyspie Słodowej** i tam bylo takie spotkanie, taki zlot, taki
 2. Zdrowego jedzenia
 3. Jak mi kot próbował zjeść ładowarkę
 
-
+### Inne ciekawostki
+- [ ] 120 iq
+- [ ] brak długów
+- [x] 7 spraw sądowych
