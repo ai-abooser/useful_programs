@@ -70,7 +70,7 @@ gdzie:
 ## Co natomiast kocham?!?!?!?!??!
 Mój **ulubiony** wzór to bez żadnego cienia wątpliwości $E^2 = (pc)^2 + (mc^2)^2$
 
-Na drugim miejscu znajduje się moje beloved równanie funkji falowej: $\Psi(x,t) = A \sin(kx - \omega t + \phi)$
+Na drugim miejscu znajduje się moje beloved równanie funkcji falowej: $\Psi(x,t) = A \sin(kx - \omega t + \phi)$
 
 
 
