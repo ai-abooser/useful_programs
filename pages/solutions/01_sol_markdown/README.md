@@ -29,3 +29,5 @@ Byłam sobie na **Wyspie Słodowej** i tam bylo takie spotkanie, taki zlot, taki
 | Pomaga? | Socjal | Nie xd |
 | Marnuje wode? | Tak | Tak! |
 | Tworzy niesamowitą przyszłość? | Zależy | Nie |
+
+[Sponsorem](http://colab.research.google.com) tego repozytorium jest Google Colab!
