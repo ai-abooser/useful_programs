@@ -30,4 +30,18 @@ Byłam sobie na **Wyspie Słodowej** i tam bylo takie spotkanie, taki zlot, taki
 | Marnuje wode? | Tak | Tak! |
 | Tworzy niesamowitą przyszłość? | Zależy | Nie |
 
+## SQL Injection
+```python
+import sqlite3
+
+db = sqlite3.connect(':memory:')
+cursor = db.cursor()
+
+username = "admin' --"
+query = f"SELECT * FROM users WHERE username='{username}'"
+cursor.execute(query)
+```
+
 [Sponsorem](http://colab.research.google.com) tego repozytorium jest Google Colab!
+
+
