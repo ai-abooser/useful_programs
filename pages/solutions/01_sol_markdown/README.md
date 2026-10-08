@@ -21,3 +21,7 @@ Byłam sobie na **Wyspie Słodowej** i tam bylo takie spotkanie, taki zlot, taki
 - [ ] 120 iq
 - [ ] brak długów
 - [x] 7 spraw sądowych
+
+# Analiza Wszechświata
+## Porównanie Polski do LLM
+|Cecha|
