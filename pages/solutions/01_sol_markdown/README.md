@@ -67,6 +67,13 @@ gdzie:
 - $\xi_i$ to punkt w przedziale,
 - suma po wszystkich prostokątach przybliża pole pod krzywą.
 
+## Co natomiast kocham?!?!?!?!??!
+Mój **ulubiony** wzór to bez żadnego cienia wątpliwości $E^2 = (pc)^2 + (mc^2)^2$
+
+Na drugim miejscu znajduje się moje beloved równanie funkji falowej: $\Psi(x,t) = A \sin(kx - \omega t + \phi)$
+
+
+
 
 
 [Sponsorem](http://colab.research.google.com) tego repozytorium jest Google Colab!
