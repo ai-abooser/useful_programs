@@ -24,4 +24,8 @@ Byłam sobie na **Wyspie Słodowej** i tam bylo takie spotkanie, taki zlot, taki
 
 # Analiza Wszechświata
 ## Porównanie Polski do LLM
-|Cecha|
+| Cecha | Polska | LLM |
+| --- | --- | --- |
+| Pomaga? | Socjal | Nie xd |
+| Marnuje wode? | Tak | Tak! |
+| Tworzy niesamowitą przyszłość? | Zależy | Nie |
