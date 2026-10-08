@@ -52,22 +52,12 @@ $$
 $$
 
 $$
-\nabla \cdot (\nabla \times \mathbf{F}) = 0
+f'(x_0) = \lim_{\Delta x \to 0} \frac{\Delta y}{\Delta x} = \lim_{\Delta x \to 0} \frac{f(x_0 + \Delta x) - f(x_0)}{\Delta x}
 $$
 
-Schrödinger napisałby to tak:
 
-$\hat{H}\psi = i\hbar \frac{\partial \psi}{\partial t}$
 
-a w pełnej postaci równanie Schrödingera:
 
-$$
-i\hbar \frac{\partial}{\partial t}\Psi(\mathbf{r},t)
-=
-\left[
--\frac{\hbar^2}{2m}\nabla^2 + V(\mathbf{r},t)
-\right]\Psi(\mathbf{r},t)
-$$
 
 [Sponsorem](http://colab.research.google.com) tego repozytorium jest Google Colab!
 
