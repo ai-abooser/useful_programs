@@ -43,6 +43,7 @@ cursor.execute(query)
 ```
 
 ## Moje ulubione WZORKI HAHAHAHAHHAHAA
+
 $$
 \forall \epsilon > 0\ \exists \delta > 0:\ 0 < |x-a| < \delta \Rightarrow |f(x)-L| < \epsilon
 $$
