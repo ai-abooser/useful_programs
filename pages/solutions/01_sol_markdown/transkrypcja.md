@@ -27,6 +27,4 @@
 * stany energetyczne są zdegenerowane
 * sferyczna kropka kwantowa $\Rightarrow$ rozłożenie funkcji falowej $\Psi$ na część radialną i kątową (podobieństwo do zagadnienia atomu wodoru w mechanice kwantowej)<br>$\Rightarrow$ rozwiązanie – funkcje Bessela typu $J_{l+1/2}$
 
----
-
 ### 12. PORÓWNAĆ WŁASNOŚCI HETEROSTRUKTUR, DRUTÓW I KROPEK KWANTOWYCH.
